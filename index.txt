@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<title>Web de Raul Moreno Dj</title>
+	<meta charset="UTF-8">
+	<link rel="icon" type="image/x-icon" href="D:\xampp\htdocs\raulcurso\Imagenes\foto raul.jpg">
+
+<style>
+	body{background-image:url('https://images4.alphacoders.com/143/thumb-1920-143306.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size:cover;}
+
+	a:link, a:visited {background-color: #82E0AA;color: black;padding: 10px 20px;margin: 5px;text-align: center;text-decoration: none;display: inline-block;}
+	a:hover, a:active {background-color: #00FF33;}
+
+	h1{color:#AEB6BF; font-size:70px; text-align:center; font-family:Athletic Outfit;}
+	h3{color:#D6EAF8;text-align:center;}
+	p{color:#D5F5E3;}
+	
+	table, th, td{background_color:white; border-style:solid; border-color:#00FF33; color:white;}
+	
+</style>
+</head>
+<body>
+
+	<h1><ins>Web de Raul Moreno Dj</ins></h1>
+	<h3> <pre>
+	En esta Web encontrareis, informacion de
+	los nuevos temas que van saliendo al mercado,
+	tanto de musica Remember, como de otros generos.
+	Igualmente, podreis encontrar otros generos de 
+	los 80s, 90s y 00s.</pre>
+
+	<img src="https://i.pinimg.com/564x/3a/7c/78/3a7c78ab225b3bd4c06df40c2037d122.jpg" alt="Imagen Logo Raul" width="200" height="200">
+
+<hr>
+	<h1><ins> DESCARGA DE SESIONES</ins></h1>
+	<h3> Aqui podras escuchar on-line y acceder a la descarga
+	de todas mis sesiones realizadas
+	hasta la fecha.</h3>
+
+<table style="width:30%">
+   <tr>
+	<th>FECHA DE SESION</th>
+	<th>DESCARGA DIRECTA</th>
+   </tr>
+   <tr>
+	<td><ins>28 de Enero de 2021</ins></td>
+	<td><a href="https://www.youtube.com/watch?v=cOoiX5X_MJg&t=4238s">Descarga directa Live Session Vol. 1</a></td>
+   </tr>
+   <tr>
+	<td><ins>02 de Febrero de 2021</ins></td>
+	<td><a href="https://www.youtube.com/watch?v=m2VkHRAhUc8&t=2141s">Descarga directa Live session vol. 2</a></td>
+   </tr>
+   <tr>
+	<td><ins>09 de Febrero de 2021</ins></td>
+	<td><a href="https://www.youtube.com/watch?v=j84R6vw3bAQ&t=5467s">Descarga directa Live session Vol. 3</a></td>
+   </tr>
+   <tr>
+	<td><ins>17 de Febrero de 2021</ins></td>
+	<td><a href="https://www.youtube.com/watch?v=LlEVlaGkDkA&t=349s">Descarga directa Live session Vol. 4</a></td>
+   </tr>
+   <tr>
+	<td><ins>06 de septiembre de 2021</ins></td>
+	<td><a href="https://www.youtube.com/watch?v=wopC8iXa9M4&t=1926s">Descarga directa Live session Vol. 5</a></td>
+   </tr>
+</table>
+
+	<pre><a href="https://www.youtube.com/channel/UCC-1Nop8FLpreUozBdB3ncw">
+	<img src="https://www.universfreebox.com/wp-content/uploads/2020/02/youtube_logo.jpg" alt=" Visita mi Canal" width="150" height="75"><br> Visita mi canal y Suscribete</a><br>
+	 
+<a href="mailto:raulcursowebmordered@gmail.com"; style-color:white> Enviame un Correo Electronico </a>
+
+
+
+</body>
+</html>
